@@ -4,6 +4,8 @@
   }
   
   body {
+    margin: 5%;
+    background: purple;
   }
   
   header {
@@ -12,20 +14,24 @@
     color: #333;
     background: #ccc;
     font-size: 60px;
+    color: #777;
   }
   
   section {
   
   }
   .floats{
-  width: 33.33%;
+  width: ;
   text-align: center;
-  float: left;
+  float:;
   height: 55px;
-  color: white;
-  font-size: 20px;
+  color: #777;
+  font-size: 40px;
   line-height: 55px;
   margin-bottom: 20px;
+  height: 125px;
+  line-height: 125px;
+  
   }
   
   .clear:after{
@@ -35,32 +41,34 @@
   
   }
   
-  #left {
+  /* #left {
     background: black;
     
-  }
+  } */
   
   #middle {
     background: green;
+    
+
   }
   
-  #right {
+  /* #right {
     background: black;
-  }
+  } */
   
   #full {
     background: lightgreen;
     height: 250px; 
     margin-top: 25px;
     padding: 25px;
-    color: white;
+    color: #777;
   }
   
   #division {
     height: 25px;
     padding: 25px;
     background: lightgrey;
-    color: white;
+    color: #777;
   }
   
   aside {
@@ -71,7 +79,7 @@
     background: yellow;
     padding-top: 25px;
     height: 200px;
-    color: white;
+    color: #777;
   }
   
   footer {
@@ -79,6 +87,6 @@
     height: 50px;
     line-height: 50px;
     background: lightblue;
-    color: white;
+    color: #777;
   }
   
