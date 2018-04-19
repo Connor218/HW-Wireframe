@@ -5,14 +5,14 @@
  
   body {
     margin: 5%;
-    background: purple;
+    background: #777;
   }
   
   header {
-    padding: 20px;
-    margin-bottom: 20px;
+    padding: 25px;
+    margin-bottom: 25px;
     color: #333;
-    background: #ccc;
+    background: #ebebeb;
     font-size: 60px;
     color: #777;
   }
@@ -28,7 +28,7 @@
   color: #777;
   font-size: 40px;
   line-height: 55px;
-  margin-bottom: 20px;
+  margin-bottom: 25px;
   height: 125px;
   line-height: 125px;
   
@@ -47,7 +47,8 @@
   } */
   
   #middle {
-    background: green;
+    background: #ebebeb;
+    color: #777;
     
 
   }
@@ -57,7 +58,7 @@
   } */
   
   #full {
-    background: lightgreen;
+    background: #ebebeb;
     height: 250px; 
     margin-top: 25px;
     padding: 25px;
@@ -79,18 +80,20 @@
   #division {
     height: 25px;
     padding: 25px;
-    background: lightgrey;
+    background: #ebebeb;
     color: #777;
     margin: 25px;
+    line-height: 1px;
 
   }
 
   #division1{
     height: 25px;
     padding: 25px;
-    background: black;
+    background: #ebebeb;
     color: #777;
     margin: 25px;
+    line-height: 1px;
   }
   
   aside {
@@ -98,18 +101,17 @@
     margin-left: 35px;
     height: 60px;
     width: 460px;
-    background: yellow;
     padding-top: 25px;
     height: 200px;
-    color: #777;
-    
+    color: #ebebeb;
+    background: #777;
   }
   
   footer {
     padding: 20px;
-    margin-top: 20px;
+    margin-top: 25px;
     line-height: 50px;
-    background: lightblue;
+    background: #ebebeb;
     color: #777;
     clear: both;
     
@@ -118,12 +120,13 @@
 
   aside1{
     float: right;
-    background: green;
+    background: #ebebeb;
     height: 250px; 
     margin-top: 25px;
     padding: 25px;
     width:50%;
     color: #777;
+    line-height: 50px;
     
     
   }
